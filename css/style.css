@@ -132,7 +132,7 @@ p {
   padding: 0 4rem;
 }
 
-@media only screen and (max-width: 805px) {
+@media only screen and (max-width: 830px) {
   .hero__buttons {
     display: block;
     flex-direction: column;
