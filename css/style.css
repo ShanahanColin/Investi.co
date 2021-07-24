@@ -136,6 +136,7 @@ p {
   .hero__buttons {
     display: block;
     flex-direction: column;
+    width: auto;
   }
 }
 
